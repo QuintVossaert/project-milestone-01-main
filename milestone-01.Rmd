@@ -20,7 +20,7 @@ The research will be focused on the emotional impact of events during a Formula 
 
 ## Research Question
 
-SOMETHING (technical jargon can used added here -- **one** sentence!)
+How do events during a Formula 1 race/weekend emotionally impact the twitter activity?
 
 **Sub-Questions:** (if any)
 
