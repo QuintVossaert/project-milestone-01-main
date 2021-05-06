@@ -36,8 +36,7 @@ I have downloaded the necessary data for this project. The script to download th
 
 ## Data Description
 
-The data that will be used in this research is a database existing of tweets concerning the Formula 1 weekend and race. The tweets are worldwide tweets, since drivers, teams, and circuits are from all over the world. The data set consists of 17792 rows and 90 columns.
-What are the important columns for your analysis?
+The data that will be used in this research is a database existing of tweets concerning the Formula 1 weekend and race. The tweets are worldwide tweets, since drivers, teams, and circuits are from all over the world, however, to make the data more understandable, only English written tweets have been searched for. The data set consists of 17792 rows and 90 columns. The most important columns of the data set would be: 'created at', 'screen name', 'text', 'source', 'retweet', 'hastags'.
 
 ## Analysis Workflow
 
