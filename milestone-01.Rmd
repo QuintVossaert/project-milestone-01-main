@@ -46,6 +46,7 @@ My workflow will follow the following steps:
 * **Step 1**. SOMETHING
   * Some details
   * More details (if needed)
+  
 * **Step 2**. SOMETHING
   * Some details
   * More details (if needed)
