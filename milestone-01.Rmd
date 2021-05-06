@@ -51,7 +51,7 @@ My workflow will follow the following steps:
   * More details (if needed)
 * ...
 
-## Communicating Results
+## Communicating Results 
 
 Explain how you plan to report your results (max. 5 sentences). 
 For example, what tables and figures do you expect your report will contain.
