@@ -16,7 +16,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Project Objective
 
-The research will be focused on the emotional impact of events during a Formula 1 race/weekend on the twitter activity of people who watch that race. With that results, advertising companies can use those busy twitter moments for the optimization for their advertisements.
+The research will be focused on the emotional impact of events (crashes, overtakes, pit strategies, etc.) during a Formula 1 race/weekend on the twitter activity of people who watch that race. With those results, (advertising) companies can use those twitter peak moments for the optimization for their advertisements.
 
 ## Research Question
 
@@ -32,25 +32,12 @@ The research question I will answer is a descriptive question.
 
 ## Data
 
-Keep the choice which applies to your project:
-
-- I have downloaded the necessary data for this project. The script to download the data is [`data/download-data.R`](data/download-data.R)^[
-The instructors need to be able to run this script so be clear what libraries are needed to be installed.
-]
-- I have not yet downloaded the final data for this project because the event I want to study has yet to occur, but have a working R script that downloads data for an earlier time period. The script to download the data is [`data/download-data.R`](data/download-data.R)^[
-The instructors need to be able to run this script.
-]
-  - **NOTES:** Only use this option if you are using the Twitter API, and the event you plan to study has not occurred by the proposal deadline
-- I am yet to download the necessary data for this project
-  - **NOTES:** Selecting this option comes with a **30% penalty** to your grade as you have not met the requirements for the proposal.
+I have downloaded the necessary data for this project. The script to download the data is [`data/download-data.R`](data/download-data.R)^]
 
 ## Data Description
 
-Provide a short (max. 7 sentences) explaining the data you will use in your project.
-Where is it from?
-How many rows and columns?
+The data that will be used in this research is a database existing of tweets concerning the Formula 1 weekend and race. The tweets are worldwide tweets, since drivers, teams, and circuits are from all over the world. The data set consists of 17792 rows and 90 columns.
 What are the important columns for your analysis?
-Provide a citation for the data if you didn't collect it yourself.
 
 ## Analysis Workflow
 
@@ -65,6 +52,8 @@ My workflow will follow the following steps:
 * ...
 
 ## Communicating Results
+
+
 
 Explain how you plan to report your results (max. 5 sentences). 
 For example, what tables and figures do you expect your report will contain.
