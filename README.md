@@ -8,9 +8,9 @@ Check the [course syllabus](https://tisem-digital-marketing.github.io/2021-smwa/
 
 ## Meta-Information 
 
-* Name: YOUR_NAME
-* GitHub Handle: YOUR_GH_HANDLE
-* Proposed Project Title: YOUR_TITLE
+* Name: Quint Vossaert
+* GitHub Handle: @QuintVossaert
+* Proposed Project Title: Impact of emotions on Tweeting activity generated during Formula 1 events.
 
 ## Instructions for Students
 
